@@ -1,0 +1,2 @@
+class Commentでcomment < ApplicationRecord
+end
